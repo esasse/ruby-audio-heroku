@@ -9,8 +9,7 @@ sound file.
 
 == About This Release
 
-Since it wasn't being maintained, I've taken it under my wing to get it usable.
-Please contact me with any questions or comments.
+I have made Stephen Augenstein's gem work on heroku.
 
 == Installation
 
