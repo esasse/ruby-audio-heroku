@@ -1,6 +1,6 @@
-= ruby-audio
+= ruby-audio-heroku
 
-Gemified release of ruby/audio. ruby-audio wraps around
+Gemified release of ruby/audio. ruby-audio-heroku wraps around
 libsndfile[http://www.mega-nerd.com/libsndfile/] to provide simplified sound
 reading and writing support to ruby programs. The core is the RubyAudio::Sound
 class, which is a subclass of RubyAudio::CSound. RubyAudio::Buffer contains
@@ -14,15 +14,15 @@ Please contact me with any questions or comments.
 
 == Installation
 
-  gem install ruby-audio --source="http://gemcutter.org"
+  gem install ruby-audio-heroku
 
 === Prerequisites
 
-- libsndfile[http://www.mega-nerd.com/libsndfile/]
+- libsndfile[http://www.mega-nerd.com/libsndfile/] is not a pre-requisite
 
 == License
 
-Copyright (C) 2010  Stephen Augenstein
+Copyright (C) 2012  Khurram Zaman
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
